@@ -1,0 +1,3 @@
+#5)name times 5
+n="Nabin"
+print(n*5)
